@@ -2,7 +2,9 @@
 - 👀 I’m interested in working as a junior or intermediate develover in any startups or availble position.
 - 🌱 I’m currently learning python(Django)
 - 💞️ I’m looking to collaborate on any project that i believe will enhance my learing skill
-- 📫 How to reach me at gmail: seunolukeye2000@gmail.com or https://www.linkedin.com/in/seun-olukeye-9a1b26128/
+- 📫 Gmail: seunolukeye2000@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/seun-olukeye-9a1b26128/
+
 
 
 <!---
