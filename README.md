@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Olukeye
-I'm Seun Sunkanmi Olukeye, a backend Software Engineer based in Nigeria using Node.js(expres.js) and Python(FastAPI, Django).I love working with with both languages alot.
+- 👋 Hi, 
+  I'm Seun Sunkanmi Olukeye, a backend Software Engineer based in Nigeria using Node.js(expres.js) and Python(FastAPI, Django).I love working with with both languages     alot.
 - 👀 I’m interested in working as a junior or intermediate develover in any startups or availble position in backend.
 - 🌱 I’m currently learning python(Django)
 - 💞️ I’m looking to collaborate on any project and open source , that i believe might enhance my learning skill.
