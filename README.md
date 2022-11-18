@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olukeye
-- 👀 I’m interested in working as a junior or intermediate develover in any startups or availble position.
+- 👀 I’m interested in working as a junior or intermediate develover in any startups or availble position in backend.
 - 🌱 I’m currently learning python(Django)
-- 💞️ I’m looking to collaborate on any project that i believe will enhance my learing skill
+- 💞️ I’m looking to collaborate on any project and open source , that i believe might enhance my learning skill.
 - 📫 Gmail: seunolukeye2000@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/seun-olukeye-9a1b26128/
 
