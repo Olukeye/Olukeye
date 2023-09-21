@@ -8,7 +8,11 @@
 - 📫 Linkedin: https://www.linkedin.com/in/seun-olukeye-9a1b26128/
 
 # skills
-js
+JavaScript
+Python
+C#
+Mongodb
+MSSQL-SERVER 
 
 <!---
 Olukeye/Olukeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
