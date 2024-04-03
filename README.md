@@ -3,7 +3,7 @@
   I'm Seun Sunkanmi Olukeye, a backend Software Engineer and conversant with current technologies and database management patterns.
 - I work with C#, .Net Core, EF, Typescript/javascript and FastAPI tools for backend software.
 - 👀 I’m interested in working with vast ranger of develover in any startups or availble position as a backend dev.
-- 💞️ I’m looking to collaborate on any project and open source , that i believe might enhance my learning skill.
+- 💞️ I’m looking to collaborate on any project and open source, startups to give my creative skills and work.
 - 📫 Gmail: seunolukeye2000@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/seun-olukeye-9a1b26128/
 
